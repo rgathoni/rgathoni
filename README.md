@@ -5,7 +5,18 @@
 
 
 # <span style="color: rgb(271,58,124)">Bots with Souls!</span> :robot:
-[![📫 How to reach me:](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rose-njuguna-4a310a1b4/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rose-njuguna-4a310a1b4/)
+
+## About me
+- 🔭 I’m currently working on ...
+* 😄 Pronouns: She/Her
+* :books: **Education:**  BSc. Computer Science - Artificial Intelligence 
+* :heart: **Loves:** Technology & Robotics, Photography, Comedy Animals, Night skies, Rain, Food, Coffee
+* :pushpin: **Location:** San Francisco, California
+* 
+* **Current activity:** learning the iconic "Single Ladies" choreography :dancer: (<a href="mailto:karenwngugi12@gmail.com?subject=How's the Single Ladies choreography going?&body=Hi,I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
+* **Next stop:** Senior Software Engineer :computer:
+* **Final destination:** World dominion :earth_africa:
 
 
 <!--
