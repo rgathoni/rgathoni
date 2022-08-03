@@ -7,14 +7,13 @@
 # <span style="color: rgb(271,58,124)">Bots with Souls!</span> :robot:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rose-njuguna-4a310a1b4/)
 
-## About me
+## Get to know me
 * 🔭 I’m currently working on ...
 * 😄 Pronouns: She/Her
 * :books: **Education:**  BSc. Computer Science - Artificial Intelligence 
 * :heart: **Loves:** Technology & Robotics, Photography, Animals, Night skies, Rain, Food, Coffee
 * :pushpin: **Location:** San Francisco, California
 * ⚡ Fun fact: My sense of humor is very and I mean very questionable.
-* 
 
 
 <!--
