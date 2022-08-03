@@ -1,7 +1,7 @@
 ### Hey. Have we met? 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Your+one+stop+shop+for+tech+solutionss)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Your+one+stop+shop+for+tech+solutions+)](https://git.io/typing-svg)
 
 
 # <span style="color: rgb(271,58,124)">Bots with Souls!</span> :robot:
