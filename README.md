@@ -13,8 +13,7 @@
 * 🔭 I’m currently working on cloud innovation and engineering
 * :heart: **Loves:** Technology & Robotics, Photography, Animals, Night skies, Rain, Food, Coffee
 * :pushpin: **Location:** San Francisco, California
-* ⚡ Fun fact: My sense of humor is very and I mean very questionable.
-
+* ⚡ Fun fact: My sense of humor is OFF the rails.
 
 <!--
 **rgathoni/rgathoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
