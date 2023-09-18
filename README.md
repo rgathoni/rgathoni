@@ -9,7 +9,7 @@
 
 ## Get to know me
 * 😄 Pronouns: She/Her
-* :books: **Education:**  BSc. Computer Science - Artificial Intelligence 
+* :books: **Education:**  BSc. Computer Science - Artificial Intelligence; Applied Problem Solving
 * :heart: **Loves:** Technology & Robotics, Photography, Animals, Night skies, Rain, Food, Coffee
 * :pushpin: **Location:** San Francisco, California
 * ⚡ Fun fact: My sense of humor is OFF the rails.
