@@ -5,7 +5,7 @@
 
 
 # <span style="color: rgb(271,58,124)">Bots with Souls!</span> :robot:
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rose-njuguna-4a310a1b4/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rose-njuguna/)
 
 ## Get to know me
 * 😄 Pronouns: She/Her
